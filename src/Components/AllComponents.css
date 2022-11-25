@@ -1,0 +1,34 @@
+.line {
+    border: 1px solid #808080
+}
+
+.location {
+    background-color: #FFAE5D;
+    border-radius: 20px;
+}
+
+.product_name ul li {
+    font-size: 14px;
+    color: #606060;
+}
+
+.hotDeailsTitle {
+    font-weight: 300;
+    font-size: 76px;
+    line-height: 85px;
+    color: #000000;
+}
+
+.dashedBorder {
+    border-bottom: 2px dashed #FFAE5D;
+}
+
+.disCountColor {
+    color: #FF3232;
+}
+
+.image {
+    width: 100vw;
+    height: 60vh;
+    object-fit: cover;
+}
