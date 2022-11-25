@@ -7,7 +7,7 @@ const HotDeals = () => {
     const [products] = useProduct();
 
     return (
-        <div>
+        <div className='customContainer'>
             <div className='grid grid-cols-12 items-center mt-14 mb-16'>
                 <div className='col-span-5'>
                     <h2 className='hotDeailsTitle'>We picked some <span className='text-primary font-bold'>cool things</span> for you!</h2>

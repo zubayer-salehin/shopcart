@@ -5,7 +5,7 @@ import "./AllComponents.css"
 
 const Navbar = () => {
     return (
-        <div>
+        <div className='customContainer'>
             <div className='grid grid-cols-2 mt-5 mb-4'>
                 <h3 className='text-3xl'>
                     <span className='font-bold'>shop</span><span className='font-lights'>cart</span>
